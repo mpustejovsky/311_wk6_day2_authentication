@@ -156,7 +156,7 @@ Create a function called `logger` in the `middleware/index.js` file. It's purpos
 
 ```js
 const logger = (req, res, next) => {
-
+  
 }
 ```
 
